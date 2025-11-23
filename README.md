@@ -1,5 +1,9 @@
 # ✨ Particle Trail Generator
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.javascript.com/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/particle-trail-generator?style=social)](https://github.com/yksanjo/particle-trail-generator/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/particle-trail-generator.svg)](https://github.com/yksanjo/particle-trail-generator/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/particle-trail-generator.svg)](https://github.com/yksanjo/particle-trail-generator/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/particle-trail-generator.svg)](https://github.com/yksanjo/particle-trail-generator/commits/main)
+
+
 An interactive particle trail generator with beautiful visual effects. Move your mouse to create stunning particle trails with multiple styles, colors, and physics effects.
 
 ## 🎨 Features
